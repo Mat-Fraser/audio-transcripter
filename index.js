@@ -1,5 +1,7 @@
+// Backend project
+
 const axios = require("axios")
-const audioURL = "https://upload.wikimedia.org/wikipedia/commons/4/46/03_ALBERT_EINSTEIN.ogg"
+const audioURL = "https://____" //Add a url of the audio file that you want to transcript and that's all (Make sure the result will be show in shell or terminal)
 const APIKey = "908c0XXXXXXXXXXXX"//API KEY
 const refreshInterval = 5000
 
