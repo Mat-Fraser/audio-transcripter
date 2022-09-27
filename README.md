@@ -1,4 +1,4 @@
-# audio-transcripter
+# audio-transcripter(Nodejs)
 
 ## Working
 - Add audio file URL and then perform node index.js in shell.
