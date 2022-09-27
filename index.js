@@ -1,9 +1,9 @@
 const axios = require("axios")
 const audioURL = "https://upload.wikimedia.org/wikipedia/commons/4/46/03_ALBERT_EINSTEIN.ogg"
-const APIKey = "908c0f1bab85488fa1b3895edbc1bd28"
+const APIKey = "908c0XXXXXXXXXXXX"//API KEY
 const refreshInterval = 5000
 
-// Setting up the AssemblyAI headers
+// Setting up 
 const assembly = axios.create({
   baseURL: "https://api.assemblyai.com/v2",
   headers: {
